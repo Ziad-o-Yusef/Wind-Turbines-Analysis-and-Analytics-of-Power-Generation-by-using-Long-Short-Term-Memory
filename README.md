@@ -8,5 +8,5 @@ _________________________________
 - **Ziad O Yousef** : [Google Scholar](https://scholar.google.com/citations?hl=en&user=fR9wY-EAAAAJ)
 - **Mohamed A Tolba**: [Google Scholar](https://scholar.google.com/citations?hl=en&user=LVNwWjQAAAAJ)
 ___________________________
-### *Paber Citation:*
+### *Paper Citation:*
 IEEE Xplore https://ieeexplore.ieee.org/abstract/document/10086892
